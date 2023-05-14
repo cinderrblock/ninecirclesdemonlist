@@ -1,0 +1,19 @@
+{
+    "id": 46,
+    "name": "ULTRASTAR",
+    "author": "F1regek",
+    "creators": [],
+    "verifier": "cinderrblock",
+    "verification": "https://www.youtube.com/watch?v=MJ9chqSChHg",
+    "showcase": "https://www.youtube.com/watch?v=MJ9chqSChHg",
+    "percentToQualify": 48,
+    "records": [
+        {
+            "user": "test",
+            "link": "https://youtu.be/Ien0qtWzddc",
+            "percent": 2,
+            "hz": 2147483647
+        }
+
+    ]
+}
