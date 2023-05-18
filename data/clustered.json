@@ -1,0 +1,20 @@
+{
+    "id": 82363535,
+    "name": "CLUSTERED",
+    "author": "F1regek",
+    "creators": [
+        "F1regek"
+        ],    
+    "verifier": "Pixelo",
+    "verification": "https://exampl.com",
+    "percentToQualify": 60,
+    "records": [
+        {
+            "user": "cinderrblock",
+            "link": "https://example.com",
+            "percent": 100,
+            "hz": 240
+        }
+       
+    ]
+}
