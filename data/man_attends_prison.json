@@ -1,0 +1,20 @@
+{
+    "id": 43,
+    "name": "man_attends_prison",
+    "author": "F1regek",
+    "creators": [
+        "F1regek"
+    ],
+    "verifier": "F1regek",
+    "verification": "https://example.com",
+    "percentToQualify": 78,
+    "records": [
+        {
+            "user": "cinderrblock",
+            "link": "https://example.com",
+            "percent": 100,
+            "hz": 240
+        }
+        
+    ]
+}
