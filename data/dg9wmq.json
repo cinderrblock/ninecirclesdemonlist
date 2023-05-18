@@ -1,0 +1,15 @@
+{
+    "id": 30,
+    "name": "dG9wMQ",
+    "author": "truffle",
+    "creators": ["truffle"],
+    "verifier": "truffle",
+    "verification": "https://example.com",
+    "percentToQualify": 70,
+    "records": [
+        {
+        
+        
+        }
+    ]
+}
