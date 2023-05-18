@@ -1,0 +1,20 @@
+{
+    "id": 34,
+    "name": "polar essences",
+    "author": "000000000000000",
+    "creators": [
+        "000000000000000"
+    ],
+    "verifier": "000000000000000",
+    "verification": "https://www.example.com",
+    "percentToQualify": 74,
+    "records": [
+        {
+            "user": "cinderrblock",
+            "link": "https://www.example.com",
+            "percent": 100,
+            "hz": 240
+        }
+        
+    ]
+}
