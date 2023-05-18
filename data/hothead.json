@@ -1,0 +1,12 @@
+{
+    "id": 41,
+    "name": "HotHead",
+    "author": "F1regek",
+    "creators": ["F1regek"],
+    "verifier": "F1regek",
+    "verification": "https://example.com",
+    "percentToQualify": 60,
+    "records": [
+        
+    ]
+}
