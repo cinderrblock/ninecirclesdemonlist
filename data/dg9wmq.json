@@ -8,8 +8,10 @@
     "percentToQualify": 70,
     "records": [
         {
-        
-        
+            "user": "cinderrblock",
+            "link": "https://example.com",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
