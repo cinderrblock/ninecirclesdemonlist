@@ -1,0 +1,18 @@
+{
+    "id": 80,
+    "name": "Draining",
+    "author": "F1regek",
+    "creators": ["F1regek"],
+    "verifier": "F1regek",
+    "verification": "https://example.com",
+    "percentToQualify": 49,
+    "records": [
+        {
+            "user": "cinderrblock",
+            "link": "https://example.com",
+            "percent": 100,
+            "hz": 240
+        }
+        
+    ]
+}
