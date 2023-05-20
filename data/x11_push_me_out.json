@@ -1,0 +1,12 @@
+{
+    "id": 78,
+    "name": "x11 push me out",
+    "author": "F1regek",
+    "creators": ["F1regek"],
+    "verifier": "cinderrblock",
+    "verification": "https://example.com",
+    "percentToQualify": 42,
+    "records": [
+       
+    ]
+}
