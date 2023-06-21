@@ -1,0 +1,15 @@
+{
+    "id": 82,
+    "name": "Wrong Way",
+    "author": "F1regek",
+    "creators": ["F1regek"],
+    "verifier": "cinderrblock",
+    "verification": "https://www.example.com",
+    "percentToQualify": 56,
+    "records": [
+        {
+
+        }
+        
+    ]
+}
