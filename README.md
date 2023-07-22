@@ -1,3 +1,3 @@
-the chi gdps demonlist, nothin much
+nine circles demon list
 
 credits to theshittylist devs for the original site!!
