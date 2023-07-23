@@ -1,9 +1,15 @@
 [
     {
         "role": "owner",
+        "name": "feuq"
+    },
+    {
+        "role": "owner",
+        "name": "hiqoo"
+    },
+    {
+        "role": "admin",
         "name": "cinderrblock",
         "link": "https://www.youtube.com/@cndrblck"
-    },
-
-    
+    }
 ]
