@@ -36,7 +36,7 @@
     text-decoration: line-through;
 }
 .page-list .list .level button:hover {
-    background-color: #eee;
+    background-color: #ffa500;
     color: white !important;
     cursor: pointer;
 }
