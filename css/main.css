@@ -34,7 +34,7 @@ body {
     flex-direction: column;
     margin: 0;
     padding: 1.5rem;
-    background-image: url("/assets/april-background.png+");
+    background-image: url("/assets/april-background.png");
     background-size: cover;
 }
 
