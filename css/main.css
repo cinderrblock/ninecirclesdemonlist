@@ -1,5 +1,5 @@
 :root {
-    --color-background: transparent;
+    --color-background: rgba(0, 0, 0, 0.6);
     --color-on-background: white;
     --color-background-hover: transparent;
     --color-on-background-hover: white;
