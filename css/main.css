@@ -1,7 +1,7 @@
 :root {
-    --color-background: rgba(0, 0, 0, 0.6);
+    --color-background: transparent;
     --color-on-background: white;
-    --color-background-hover: #27262c;
+    --color-background-hover: transparent;
     --color-on-background-hover: white;
     --color-primary: #283593;
     --color-primary-disabled: #1f213c;
